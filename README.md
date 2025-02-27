@@ -1,4 +1,4 @@
-# Emoji Rating System
+# Emoji Rating System [![Netlify Status](https://api.netlify.com/api/v1/badges/c51d5b09-dd1a-4850-bc71-b36d63fe6287/deploy-status)](https://app.netlify.com/sites/emoj-rating/deploys)
 
 An interactive **Emoji Rating System** built using **HTML, CSS, and JavaScript**. This project provides a fun and engaging way to collect user feedback by dynamically changing emojis based on the selected star rating.
 
