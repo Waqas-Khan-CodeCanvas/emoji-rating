@@ -10,7 +10,7 @@ An interactive **Emoji Rating System** built using **HTML, CSS, and JavaScript**
 ✅ Lightweight and easy to integrate 📦  
 
 ## 🌐 Live Demo
-[🔗 View Live Project]([your-live-demo-link](https://emoj-rating.netlify.app/))
+[🔗 View Live](https://emoj-rating.netlify.app/)
 
 
 ## 🛠️ Technologies Used
