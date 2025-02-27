@@ -10,10 +10,8 @@ An interactive **Emoji Rating System** built using **HTML, CSS, and JavaScript**
 ✅ Lightweight and easy to integrate 📦  
 
 ## 🌐 Live Demo
-[🔗 View Live Project](your-live-demo-link)
+[🔗 View Live Project]([your-live-demo-link](https://emoj-rating.netlify.app/))
 
-## 📸 Preview
-![Emoji Rating System Preview](your-preview-image-link)
 
 ## 🛠️ Technologies Used
 
@@ -59,9 +57,9 @@ Feel free to contribute by submitting issues or pull requests.
 
 ## 🔗 Connect with Me
 
-📌 **GitHub:** [your-github-link](https://Waqas-Khan-CodeCanvas)  
-📌 **LinkedIn:** [your-linkedin-link](https://www.linkedin.com/in/waqas-khan-a68602343/)  
-📌 **Twitter:** [your-twitter-link](https://twitter.com/yourusername)  
+📌 **GitHub:** [Waqas-Khan-CodeCanvas](https://Waqas-Khan-CodeCanvas)  
+📌 **LinkedIn:** [waqas khan](https://www.linkedin.com/in/waqas-khan-a68602343/)  
+📌 **Twitter:** [not yet](https://twitter.com/yourusername)  
 
 ---
 **Follow me for more cool projects! 🚀**
